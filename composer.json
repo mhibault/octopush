@@ -1,0 +1,10 @@
+{
+    "name": "mhibault/octopush",
+    "authors": [
+        {
+            "name": "Marie-Eve HIBAULT",
+            "email": "marieeve.hibault@gmail.com"
+        }
+    ],
+    "require": {}
+}
